@@ -1,7 +1,4 @@
 {
   "name": "cph-alert-test",
-  "version": "0.1.0",
-  "description": "Test fixture for ClaudePluginHub install-status alerts. Not for use.",
-  "author": { "name": "ClaudePluginHub" },
-  "license": "MIT"
-}
+  "version": "0.1.1",
+  "description": "Test fixture. Deliberately broken manifest.",
