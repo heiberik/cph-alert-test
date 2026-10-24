@@ -1,0 +1,5 @@
+{
+  "name": "cph-alert-test",
+  "owner": { "name": "heiberik" },
+  "plugins": [{ "name": "cph-alert-test", "source": "./", "description": "Test fixture for ClaudePluginHub install-status alerts." }]
+}
